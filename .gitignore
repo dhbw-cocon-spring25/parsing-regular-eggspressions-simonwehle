@@ -48,3 +48,6 @@ nbproject/private/
 # Maven
 log/
 target/
+
+# Antlr
+.antlr/
